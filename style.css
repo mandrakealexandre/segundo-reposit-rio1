@@ -1,9 +1,9 @@
 header {
-    background-color: rgb(12, 20, 20);
+    background-color: rgb(238, 241, 241);
 }
 
 body {
-    background-color: rgb(253, 144, 11);
+    background-color: rgb(4, 134, 32);
 }
 
 .estudante-div {
@@ -26,10 +26,10 @@ body {
 }
 
 footer {
-    background-color: rgb(59, 238, 98);
+    background-color: rgb(5, 136, 34);
 }
 
 .rodape {
-    background-color: #000000;
+    background-color: #faf2f2;
     text-align: center;
 }
